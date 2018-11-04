@@ -80,6 +80,8 @@ nav-menu: true
 		<p>Light your home with the sweet aroma of lavender-scented candles, infused with lavender blossoms. Every candle is handcrafted and decorated.</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">View All</a></li>
+			<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/demo" target="_blank">Buy my product</a>
 		</ul>
 	</div>
 </section>
