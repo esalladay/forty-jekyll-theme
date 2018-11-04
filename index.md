@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to La La Lavender'
+landing-title: 'Welcome to La La Lavenderland'
 description: null
 image: null
 author: null

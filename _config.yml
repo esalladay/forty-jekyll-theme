@@ -1,8 +1,10 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: La La Lavenderland
+subtitle: 
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Vision - Our vision is to spread lavender love throughout the land to bring about healthier, healing communities. 
+Mission - We grow lavender to make supplemental healing products for the people we love—our customers. 
+
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
