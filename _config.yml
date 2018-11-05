@@ -1,6 +1,6 @@
 # site settings
 title: La La Lavenderland
-subtitle: 
+subtitle: from our farm to your home
 email: youremailaddress@gmail.com
 description: Vision - Our vision is to spread lavender love throughout the land to bring about healthier, healing communities. 
 Mission - We grow lavender to make supplemental healing products for the people we love—our customers. 
@@ -9,8 +9,8 @@ baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: Spokane   
+state: WA
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
