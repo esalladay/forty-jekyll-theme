@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: La La Lavenderland Shop
 layout: landing
 description: 'Shop our products'
 image: assets/images/pic07.jpg
