@@ -51,6 +51,12 @@
 		}
 	}
 
+	@media only screen and (max-width: 568px) {
+		.footer-list-top {
+		  display: block;
+		}
+	}
+
 // Base.
 
 	@import 'base/page';
