@@ -13,6 +13,7 @@
   {% endif %}
   {% endfor %}
 
+  {% assign my_pages = site.pages | where_exp: "page", "page.ext != 'css'" %}
   {% for page in site.pages limit:site.tiles-count=2 %}
   {% if site.tiles-source == 'pages' and page.show_tile != false %}
   <article>
