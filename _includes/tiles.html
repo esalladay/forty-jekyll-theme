@@ -13,8 +13,8 @@
   {% endif %}
   {% endfor %}
 
-  {% assign my_pages = site.pages | where_exp: "page", "page.ext != 'css'" %}
-  {% for page in site.pages limit:site.tiles-count=1 %}
+  
+  {% for page in site.html_pages limit:site.tiles-count %}
   {% if site.tiles-source == 'pages' and page.show_tile != false %}
   <article>
     <span class="image">
