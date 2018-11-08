@@ -12,9 +12,6 @@ nav-menu: true
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 				<header class="major">
 					<h3>Shower & Bath Crystals - Lavender Peppermint</h3>
@@ -26,9 +23,6 @@ nav-menu: true
 
 
 <section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 				<header class="major">
 					<h3>Shower & Bath Crystals - Lavender Eucalyptus</h3>
