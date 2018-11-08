@@ -27,8 +27,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Shower & Bath Crystals - Lavender Eucalyptus</h3>
 				</header>
-				    <script src="https://gumroad.com/js/gumroad-embed.js"></script>
-                    <div class="gumroad-product-embed" data-gumroad-product-id="DToMn"><a href="https://gumroad.com/l/DToMn">Loading...</a></div>
+                <div> <img src = "assets\images\crystals_rosemary_greenribbon.jpg" alt="lavendereucalyptuscrystals"> </div>
+				<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+                <div class="gumroad-product-embed" data-gumroad-product-id="DToMn"><a href="https://gumroad.com/l/DToMn">Loading...</a></div>
 		</div>
 </section>
 
