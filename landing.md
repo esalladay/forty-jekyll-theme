@@ -30,9 +30,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Shower & Bath Crystals</h3>
 				</header>
-				<p>THe natural minerals will infuse the water to soften and renew your skin, while the delicate aroma drifts your mind to your own happy place</p>
+				<p>The natural minerals will infuse the water to soften and renew your skin, while the delicate aroma drifts your mind to your own happy place</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">View All</a></li>
+					<li><a href="products.html" class="button">View All</a></li>
 				</ul>
 			</div>
 		</div>
