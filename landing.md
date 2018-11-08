@@ -50,7 +50,7 @@ nav-menu: true
 				</header>
 				<p>For those who need an extra cleaning, this is what you need. Goblin approved.</p>
 				<ul class="actions">
-					<li><<script src="https://gumroad.com/js/gumroad.js"></script>
+					<li><script src="https://gumroad.com/js/gumroad.js"></script>
                     <a class="gumroad-button" href="https://gum.co/DToMn" target="_blank">Purchase Item</a></li>
 				</ul>
 			</div>
