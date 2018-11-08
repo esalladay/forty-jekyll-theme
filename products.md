@@ -12,26 +12,40 @@ nav-menu: true
 
 <section id="two" class="spotlights">
 	<section>
+		<a href="#" class="image">
+			<img src="assets\images\crystals_peppermint_purpleribbon.jpg" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
+			<div class="inner">
 				<header class="major">
 					<h3>Shower & Bath Crystals - Lavender Peppermint</h3>
 				</header>
-				    <script src="https://gumroad.com/js/gumroad-embed.js"></script>
-                    <div class="gumroad-product-embed" data-gumroad-product-id="tEdGu"><a href="https://gumroad.com/l/tEdGu">Loading...</a></div>
+				<p>For those who need an extra cleaning, this is what you need. Goblin approved.</p>
+				<ul class="actions">
+					<li><script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/tEdGu" target="_blank">Purchase Item</a></li>
+				</ul>
+			</div>
 		</div>
 	</section>
 
-
 <section>
+		<a href="#" class="image">
+			<img src="assets\images\crystals_peppermint_purpleribbon.jpg" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
+			<div class="inner">
 				<header class="major">
-					<h3>Shower & Bath Crystals - Lavender Eucalyptus</h3>
+					<h3>Shower & Bath Crystals - Lavender Peppermint</h3>
 				</header>
-                <div> <img src = "assets\images\crystals_rosemary_greenribbon.jpg" alt="lavendereucalyptuscrystals"> </div>
-				<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-                <div class="gumroad-product-embed" data-gumroad-product-id="DToMn"><a href="https://gumroad.com/l/DToMn">Loading...</a></div>
+				<p>For those who need an extra cleaning, this is what you need. Goblin approved.</p>
+				<ul class="actions">
+					<li><<script src="https://gumroad.com/js/gumroad.js"></script>
+                    <a class="gumroad-button" href="https://gum.co/DToMn" target="_blank">Purchase Item</a></li>
+				</ul>
+			</div>
 		</div>
+	</section>
 </section>
-
 
 </div>
