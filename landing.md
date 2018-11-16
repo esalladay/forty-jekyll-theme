@@ -22,6 +22,8 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 		<section>
+		<div class="columns">
+		<div class="column">
 		<a href="#" class="image">
 			<img src="assets\images\crystals_peppermint_purpleribbon.jpg" alt="" data-position="25% 25%" />
 		</a>
@@ -30,15 +32,14 @@ nav-menu: true
 				<header class="major">
 					<h3>Shower & Bath Crystals - Lavender Peppermint</h3> <ul class="actions">
 					<li><script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gum.co/tEdGu" target="_blank">Purchase Item</a></li>
+						<a class="gumroad-button" href="https://gum.co/tEdGu" target="_blank">Purchase Item</a></li>
 				</ul>
 				</header>
 				<p>For those who need an extra cleaning, this is what you need. Goblin approved.</p>
 			</div>
 		</div>
-	</section>
-
-<section>
+		</div>
+		<div class="column">
 		<a href="#" class="image">
 			<img src="assets\images\crystals_peppermint_purpleribbon.jpg" alt="" data-position="25% 25%" />
 		</a>
@@ -53,9 +54,9 @@ nav-menu: true
 				<p>For those who need an extra cleaning, this is what you need. Goblin approved.</p>
 			</div>
 		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
+		</div>
+<div class="column">
+	<a href="generic.html" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -69,9 +70,10 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
+</div>
+
+<div class="column">
+<a href="generic.html" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -85,9 +87,10 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
+</div>
+
+<div class="column">
+<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -101,8 +104,9 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
-		<section>
+</div>
+
+<div class="column">
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
@@ -119,20 +123,19 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
-</section>
+</div>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Candles</h2>
-		</header>
-		<p></p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">View All</a></li>
-		</ul>
-	</div>
+<div class="column">
+
+</div>
+
+<div class="column">
+
+</div>
+
+</div>
+	</section>
+
 </section>
 
 </div>
